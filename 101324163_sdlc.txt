@@ -2,3 +2,4 @@
 2.The SDLC defines and outlines a detailed plan with stages, or phases, that each encompass their own process and deliverables.
 3.The initial concept and creation of the SDLC only addressed security activities as a separate and singular task, performed as part of the testing phase.
 4.Nowadays, the SDLC approach associates more with innovative solutions based on state-of-the-art technologies. However, the term “system development life cycle” was coined more than half a century ago. Back in the 1960s, IT teams started using it to define the process of building management information systems in a structured way.
+5.As mentioned, the process of a system development life cycle includes several SDLC phases. The exact number of phases varies from five to seven, depending on the specifics of a system development project and a particular methodology that a team applies. 
