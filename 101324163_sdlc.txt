@@ -4,5 +4,5 @@
 4.Nowadays, the SDLC approach associates more with innovative solutions based on state-of-the-art technologies. However, the term “system development life cycle” was coined more than half a century ago. Back in the 1960s, IT teams started using it to define the process of building management information systems in a structured way.
 5.As mentioned, the process of a system development life cycle includes several SDLC phases. The exact number of phases varies from five to seven, depending on the specifics of a system development project and a particular methodology that a team applies. 
 6.better management control over the entire development project.
-7.transparency and visibility of all the processes
-clarity of requirements
+7.transparency and visibility of all the processesclarity of requirements
+8.System analysts are individuals who deal with analysis and design techniques necessary to solve business issues using information technology.
