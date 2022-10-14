@@ -7,3 +7,4 @@
 7.transparency and visibility of all the processesclarity of requirements
 8.System analysts are individuals who deal with analysis and design techniques necessary to solve business issues using information technology.
 9.The project manager can properly manage a project if deliverables are completed on time and within the budget. Sticking to a budget is easier with a well-organized plan in which you can see all the timetables and costs. Project members can submit their work to an integrated system that flags anything that is past due. When the project manager can spend less time micromanaging, he or she can spend more time improving efficiency and production.
+10.Being able to identify goals also help in discovering problems clearly. A software development project can quickly become complex and overwhelming. With this life cycle, you can visualize goals, tasks, and emerging issues at every stage of the process.

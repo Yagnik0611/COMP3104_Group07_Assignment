@@ -8,3 +8,4 @@ Before we get further into the nitty-gritty, let us first understand the reason 
 7.Collaboration between development and operation teams and frequent capturing of user feedback leads to a significant improvement in the quality of the product.
 8.Automation in repetitive tasks leaves more room for innovation
 9.Promotes agility in your business It’s no secret that making your business agile can help you to stay ahead in the market. Thanks to DevOps, it is now possible to obtain the scalability required to transform the business.
+10.Continuous delivery of software In DevOps methodology, all of the departments are responsible for maintaining stability and offering new features. Therefore, the speed of software delivery is fast and undisturbed, unlike the traditional method.
