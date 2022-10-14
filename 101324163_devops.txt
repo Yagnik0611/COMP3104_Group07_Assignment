@@ -4,3 +4,4 @@
 4.DevOps, essentially as an approach or a work culture, is implemented by the right amalgamation of collaboration, automation, integration, continuous delivery, testing and supervising.
 Before we get further into the nitty-gritty, let us first understand the reason behind introducing DevOps.
 5.Faster and more frequent delivery of updates and features will not only satisfy the customers but will also help your company take a firm stand in a competitive market.
+6.Do you know that the tension involved in the release of new features and fixes or updates can topple the stability of your workspace and decreases the overall productivity? Improve your work environment with a steady and well-balanced approach of operation with DevOps practice.
