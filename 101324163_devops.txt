@@ -7,3 +7,4 @@ Before we get further into the nitty-gritty, let us first understand the reason 
 6.Do you know that the tension involved in the release of new features and fixes or updates can topple the stability of your workspace and decreases the overall productivity? Improve your work environment with a steady and well-balanced approach of operation with DevOps practice.
 7.Collaboration between development and operation teams and frequent capturing of user feedback leads to a significant improvement in the quality of the product.
 8.Automation in repetitive tasks leaves more room for innovation
+9.Promotes agility in your business It’s no secret that making your business agile can help you to stay ahead in the market. Thanks to DevOps, it is now possible to obtain the scalability required to transform the business.
