@@ -1,3 +1,5 @@
 1.DevOps is a set of practices that combines software development and IT operations. It aims to shorten the systems development life cycle and provide continuous delivery with high software quality.
 2.The motivations for what has become modern DevOps and several standard DevOps practices such as automated build and test, continuous integration, and continuous delivery originated in the Agile world, which dates (informally) to the 1990s, and formally to 2001.
 3.The word DevOps is a combination of the terms development and operations, meant to represent a collaborative or shared approach to the tasks performed by a company's application development and IT operations teams.
+4.DevOps, essentially as an approach or a work culture, is implemented by the right amalgamation of collaboration, automation, integration, continuous delivery, testing and supervising.
+Before we get further into the nitty-gritty, let us first understand the reason behind introducing DevOps.
